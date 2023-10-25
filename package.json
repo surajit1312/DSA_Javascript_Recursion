@@ -5,7 +5,8 @@
   "main": "p1_basic_recursion.js",
   "scripts": {
     "p1_print_name_n_times": "nodemon ./basic/p1_print_name_n_times.js",
-    "p2_print_linearly_N_to_1": "nodemon ./basic/p2_print_linearly_N_to_1.js"
+    "p2_print_linearly_N_to_1": "nodemon ./basic/p2_print_linearly_N_to_1.js",
+    "p3_print_linearly_1_to_N_backtracking": "nodemon ./basic/p3_print_linearly_1_to_N_backtracking.js"
   },
   "keywords": [],
   "author": "",
