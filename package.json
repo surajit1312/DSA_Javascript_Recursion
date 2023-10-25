@@ -9,7 +9,8 @@
     "p3_print_linearly_1_to_N_backtracking": "nodemon ./basic/p3_print_linearly_1_to_N_backtracking.js",
     "p4_print_sum_n_numbers": "nodemon ./basic/p4_print_sum_n_numbers.js",
     "p5_print_factorial_of_n": "nodemon ./basic/p5_print_factorial_of_n.js",
-    "p6_reverse_an_array": "nodemon ./basic/p6_reverse_an_array.js"
+    "p6_reverse_an_array": "nodemon ./basic/p6_reverse_an_array.js",
+    "p7_check_string_palindrome": "nodemon ./basic/p7_check_string_palindrome.js"
   },
   "keywords": [],
   "author": "",
