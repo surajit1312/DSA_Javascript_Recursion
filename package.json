@@ -10,7 +10,8 @@
     "p4_print_sum_n_numbers": "nodemon ./basic/p4_print_sum_n_numbers.js",
     "p5_print_factorial_of_n": "nodemon ./basic/p5_print_factorial_of_n.js",
     "p6_reverse_an_array": "nodemon ./basic/p6_reverse_an_array.js",
-    "p7_check_string_palindrome": "nodemon ./basic/p7_check_string_palindrome.js"
+    "p7_check_string_palindrome": "nodemon ./basic/p7_check_string_palindrome.js",
+    "p8_find_nth_fibonacci_term": "nodemon ./basic/p8_find_nth_fibonacci_term.js"
   },
   "keywords": [],
   "author": "",
