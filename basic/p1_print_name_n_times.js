@@ -1,5 +1,9 @@
 console.log("Print Name N times");
-
+/**
+ * Print Name N times using recusrion
+ * TC: O(N)
+ * SC: O(N) - Stack space (internal hypothetical memory)
+ */
 const nameVal = "Surajit";
 const N = 7;
 
