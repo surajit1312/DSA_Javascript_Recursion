@@ -7,7 +7,8 @@
     "p1_print_name_n_times": "nodemon ./basic/p1_print_name_n_times.js",
     "p2_print_linearly_N_to_1": "nodemon ./basic/p2_print_linearly_N_to_1.js",
     "p3_print_linearly_1_to_N_backtracking": "nodemon ./basic/p3_print_linearly_1_to_N_backtracking.js",
-    "p4_print_sum_n_numbers": "nodemon ./basic/p4_print_sum_n_numbers.js"
+    "p4_print_sum_n_numbers": "nodemon ./basic/p4_print_sum_n_numbers.js",
+    "p5_print_factorial_of_n": "nodemon ./basic/p5_print_factorial_of_n.js"
   },
   "keywords": [],
   "author": "",
