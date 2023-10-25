@@ -1,0 +1,15 @@
+{
+  "name": "dsa_javascript_recursion",
+  "version": "1.0.0",
+  "description": "This is a repository to practice DSA Recursion topic in Javascript language",
+  "main": "p1_basic_recursion.js",
+  "scripts": {
+    "p1_print_name_n_times": "nodemon ./basic/p1_print_name_n_times.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
