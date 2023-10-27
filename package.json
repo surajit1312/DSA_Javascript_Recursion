@@ -11,7 +11,8 @@
     "p5_print_factorial_of_n": "nodemon ./basic/p5_print_factorial_of_n.js",
     "p6_reverse_an_array": "nodemon ./basic/p6_reverse_an_array.js",
     "p7_check_string_palindrome": "nodemon ./basic/p7_check_string_palindrome.js",
-    "p8_find_nth_fibonacci_term": "nodemon ./basic/p8_find_nth_fibonacci_term.js"
+    "p8_find_nth_fibonacci_term": "nodemon ./basic/p8_find_nth_fibonacci_term.js",
+    "p1_print_all_subsequence_with_sum_K": "nodemon ./array_subsequence_problems/p1_print_all_subsequence_with_sum_K.js"
   },
   "keywords": [],
   "author": "",
