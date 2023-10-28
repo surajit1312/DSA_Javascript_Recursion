@@ -14,7 +14,8 @@
     "p8_find_nth_fibonacci_term": "nodemon ./basic/p8_find_nth_fibonacci_term.js",
     "p1_print_all_subsequence_with_sum_K": "nodemon ./array_subsequence_problems/p1_print_all_subsequence_with_sum_K.js",
     "p2_print_any_subsequence_with_sum_K": "nodemon ./array_subsequence_problems/p2_print_any_subsequence_with_sum_K.js",
-    "p3_array_combination_sum_multiple_selection": "nodemon ./array_subsequence_problems/p3_array_combination_sum_multiple_selection.js"
+    "p3_array_combination_sum_multiple_selection": "nodemon ./array_subsequence_problems/p3_array_combination_sum_multiple_selection.js",
+    "p4_count_array_possible_sum_subsequence_with_sum_K": "nodemon ./array_subsequence_problems/p4_count_array_possible_sum_subsequence_with_sum_K.js"
   },
   "keywords": [],
   "author": "",
