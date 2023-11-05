@@ -14,7 +14,7 @@ function getCountOfAllPossibleSubsequences(
   index,
   calculatedSum,
   ds,
-  count
+  count,
 ) {
   if (index === arr.length) {
     if (calculatedSum === target) {
@@ -33,7 +33,7 @@ function getCountOfAllPossibleSubsequences(
     index + 1,
     calculatedSum,
     ds,
-    count
+    count,
   );
   // Not take
   calculatedSum -= arr[index]; // Backtrack
@@ -44,7 +44,7 @@ function getCountOfAllPossibleSubsequences(
     index + 1,
     calculatedSum,
     ds,
-    count
+    count,
   );
   return lcount + rcount;
 }
@@ -54,5 +54,5 @@ const targetSum1 = 7;
 let count1 = getCountOfAllPossibleSubsequences(input1, targetSum1, 0, 0, [], 0);
 console.log(
   "Count of all possible subsequences with sum " + targetSum1 + " are: ",
-  count1
+  count1,
 );

@@ -23,11 +23,11 @@
  *                     /             \                                /          \
  *              getFibo (3)           getFibo (2)                 getFibo (2)    getFibo (1)
  *              (1 + 1 = 2)           (1 + 0 = 1)                  (1 + 0 = 1)    (1)
- *               /   \                 /       \                     /      \     
+ *               /   \                 /       \                     /      \
  *             /      \              /          \                  /         \
  *     getFibo (2)    getFibo (1)   getFibo(1)  getFibo (0)    getFibo (1)  getFibo(0)
  *      (1 + 0 = 1)    (1)              (1)         (0)           (1)            (0)
- *     /       \                    
+ *     /       \
  *   /          \
  * getFibo (1)  getFibo(0)
  *  (1)            (0)

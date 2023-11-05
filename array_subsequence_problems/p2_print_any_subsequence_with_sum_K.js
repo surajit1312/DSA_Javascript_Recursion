@@ -1,10 +1,10 @@
 /**
  * Print any array subsequence with a given sum K
- * 
+ *
  * input = [1, 2, 1]
  * K = 2
  * output = [1, 1] or [2]
- * 
+ *
  *                              [1, 2, 1]
  *                        f(i = 0, a = [], s = 0)
  *                         /                     \
@@ -14,7 +14,7 @@
  *             /                 \                           /            \
  *       Take /                   \ Not Take          Take  /              \ Not Take
  *           /                     \                       /                \
- *         f(i = 2,                 f(i = 2,              f(i = 2,            f(i = 2, 
+ *         f(i = 2,                 f(i = 2,              f(i = 2,            f(i = 2,
  *         a = [1, 2])                a = [1])              a = [2]             a = []
  *         s= 3)                      s = 1)                s = 2)              s = 0)
  *        /        \                  /       \               |                /      \
@@ -29,9 +29,9 @@
  *                                                     f(i = 3,   f(i = 3,
  *                                                  a = [2, 1],   a = [2],
  *                                                  s = 3)        s = 2)
- *     
- * 
-**/
+ *
+ *
+ **/
 
 function getAnySubsequence(arr, K, calculatedSum, index, ans) {
   if (index === arr.length) {
